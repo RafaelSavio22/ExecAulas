@@ -1,0 +1,3 @@
+Altere o menu para ficar com as cores da coca-cola (procure na Internet o padrão HEX da Coca-cola) e
+insira no menu a logo da Coca cola no menu
+(https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1200px-Coca-Cola_logo.svg.png?20220328180327)
